@@ -46,3 +46,6 @@ conda create -n label-noise-sgd python=3.11
 conda activate label-noise-sgd
 pip install torch torchvision torchaudio numpy matplotlib pandas tqdm
 ```
+
+===
+ReThinkLab - Email@ [a-usually@sjtu.edu.cn](a-usually@sjtu.edu.cn) & [zzp1012@sjtu.edu.cn](zzp1012@sjtu.edu.cn)
