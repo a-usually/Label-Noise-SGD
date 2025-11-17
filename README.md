@@ -48,4 +48,4 @@ pip install torch torchvision torchaudio numpy matplotlib pandas tqdm
 ```
 
 ---
-ReThinkLab - Email@ [a-usually@sjtu.edu.cn](a-usually@sjtu.edu.cn) & [zzp1012@sjtu.edu.cn](zzp1012@sjtu.edu.cn)
+Shanghai Jiao Tong University - Email@ [a-usually@sjtu.edu.cn](a-usually@sjtu.edu.cn) & [zzp1012@sjtu.edu.cn](zzp1012@sjtu.edu.cn)
